@@ -1,3 +1,4 @@
+<img width="1024" height="1024" alt="PodcastComIA" src="https://github.com/user-attachments/assets/43f5eb9d-ce5f-44e7-823a-d1ad0cfb38d9" />
 
 
 
