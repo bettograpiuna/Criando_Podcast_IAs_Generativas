@@ -1,9 +1,6 @@
 <img width="1024" height="1024" alt="PodcastComIA" src="https://github.com/user-attachments/assets/43f5eb9d-ce5f-44e7-823a-d1ad0cfb38d9" />
 
-
-
-
-Podcast 'Low-Code: O Futuro da Tecnologia ou uma Gambiarra Chique?'
+# Podcast 'Low-Code: O Futuro da Tecnologia ou uma Gambiarra Chique?
 
 Este projeto é um exemplo prático do curso "Criando um Podcast com IAs Generativas" da DIO. Indo além da proposta inicial, este repositório mostra 
 a criação de um podcast completo, do roteiro à capa, utilizando inteligência artificial. O episódio
@@ -11,7 +8,7 @@ aborda o artigo de minha autoria, disponível no site da DIO: "Low-Code: se não
 
 O objetivo foi transformar um texto em uma experiência sonora, explorando o potencial das IAs para otimizar o processo de criação de conteúdo.
 
-O Que Você Encontra Aqui?
+### O Que Você Encontra Aqui?
 
     audio/: Pasta contendo o áudio final do podcast, gerado a partir de texto.
 
@@ -19,7 +16,7 @@ O Que Você Encontra Aqui?
 
     prompts/: Pasta que armazena o prompt usado para solicitar o roteiro ao Gemini.
 
-Como Foi Feito?
+### Como Foi Feito?
 
 Todo o processo foi guiado por uma combinação de ferramentas de IA e um toque humano:
 
@@ -31,7 +28,7 @@ Todo o processo foi guiado por uma combinação de ferramentas de IA e um toque 
 
     Edição de Áudio: Para refinar o áudio, adicionar música de fundo e efeitos, foi utilizado o CapCut.
 
-"Ouça" um Trecho!
+### "Ouça" um Trecho!
 
 Dê um play e confira a introdução do nosso episódio:
 
@@ -40,7 +37,7 @@ Dê um play e confira a introdução do nosso episódio:
     A gente vai desmistificar  isso  com base em um artigo polêmico  da DIO, que questiona  essa mentalidade  tradicional. Preparem-se para 
     a gente debater: o  Low-Code é um atalho  genial ou uma trapaça para os puristas do código? Fica ligado que o papo de hoje promete!"
 
-Materiais de Apoio
+### Materiais de Apoio
 
     Curso DIO: Criando um Podcast com IAs Generativas
 
