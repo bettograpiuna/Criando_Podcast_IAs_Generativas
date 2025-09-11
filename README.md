@@ -2,7 +2,7 @@
 
 # Podcast 'Low-Code: O Futuro da Tecnologia ou uma Gambiarra Chique?
 
-Artigo que baseou o Podcast: https://web.dio.me/articles/low-code-se-nao-escreveu-do-zero-nao-e-seu-f8d02ed39544?back=/articles
+[Clique aqui e leia o artigo que baseou o Podcast](https://web.dio.me/articles/low-code-se-nao-escreveu-do-zero-nao-e-seu-f8d02ed39544?back=/articles)
 
 Este projeto é um exemplo prático do curso "Criando um Podcast com IAs Generativas" da DIO. Indo além da proposta inicial, este repositório mostra 
 a criação de um podcast completo, do roteiro à capa, utilizando inteligência artificial. O episódio
